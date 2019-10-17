@@ -1,6 +1,0 @@
-package action.blog;
-
-public class BlogViewAction implements Action{
-	
-	
-}

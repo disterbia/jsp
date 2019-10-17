@@ -2,8 +2,8 @@ package models;
 
 public class Member {
 
-	String name = "홍길동";
-	String addr= "부산진구";
+	private String name = "홍길동";
+	private String addr= "부산진구";
 	
 	public Member() {
 		

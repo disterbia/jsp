@@ -1,7 +1,0 @@
-package models;
-
-public class Member {
-
-	String name = "홍길동";
-	String addr= "부산진구";
-}

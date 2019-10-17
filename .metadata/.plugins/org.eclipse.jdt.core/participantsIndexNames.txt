@@ -3,6 +3,8 @@ D:\workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\413373200
 \Script\src
 D:\workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3143325655.index
 \blog\src
+D:\workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1608244396.index
+\board\src
 D:\workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1570131657.index
 \factory\src
 D:\workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\647658225.index
