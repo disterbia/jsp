@@ -108,5 +108,22 @@ public class BoardDao {
 		
 		return -1;
 	}
-	
+	public int update(Board board) {
+		final String SQL= "UPDATE board SET title=?, content=? WHERE id =?";
+		conn=DBConn.getConnection();
+		
+		try {
+			pstmt=conn.prepareStatement(SQL);
+			pstmt.setString(1, board.getTitle());
+			pstmt.setString(2, board.getContent());
+			pstmt.setInt(3, board.getId());
+			
+			int result=pstmt.executeUpdate();
+			return result;
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		return -1;
+	}
 }

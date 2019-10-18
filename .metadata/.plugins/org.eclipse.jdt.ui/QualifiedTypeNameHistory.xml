@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="models.User"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
-<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="action.blog.BlogFactory"/>
 <fullyQualifiedTypeName name="action.blog.BlogViewAction"/>
 <fullyQualifiedTypeName name="action.blog.BlogWriteAction"/>
@@ -13,14 +9,22 @@
 <fullyQualifiedTypeName name="action.blog.BlogDeleteAction"/>
 <fullyQualifiedTypeName name="action.blog.BlogListAction"/>
 <fullyQualifiedTypeName name="models.Member"/>
-<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
-<fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="javax.naming.Context"/>
 <fullyQualifiedTypeName name="javax.sql.DataSource"/>
 <fullyQualifiedTypeName name="action.board.BoardListAction"/>
-<fullyQualifiedTypeName name="dao.BoardDao"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="models.Board"/>
 <fullyQualifiedTypeName name="action.board.BoardFactory"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="action.board.BoardWriteAction"/>
+<fullyQualifiedTypeName name="models.Board"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 <fullyQualifiedTypeName name="action.Action"/>
+<fullyQualifiedTypeName name="dao.BoardDao"/>
+<fullyQualifiedTypeName name="util.Script"/>
+<fullyQualifiedTypeName name="dao.DBConn"/>
 </qualifiedTypeNameHistroy>

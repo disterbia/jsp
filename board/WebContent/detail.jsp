@@ -10,5 +10,6 @@
 게시글 아이디: ${board.id} <br/>
 내용:${board.content}<br/>
 <a href="/board/BoardController?cmd=delete&id=${board.id}">삭제</a>
+<a href="/board/BoardController?cmd=updateForm&id=${board.id}">수정</a>
 </body>
 </html>

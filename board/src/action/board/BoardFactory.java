@@ -16,6 +16,10 @@ public class BoardFactory {
 			return new BoardWriteFormAction();
 		}else if(cmd.equals("write")) {
 			return new BoardWriteAction();
+		}else if(cmd.equals("updateForm")) {
+			return new BoardUpdateFormAction();
+		}else if(cmd.equals("update")) {
+			return new BoardUpdateAction();
 		}
 		return null;
 	}
